@@ -1,2 +1,2 @@
 # exampleRepo
-in class example
+"in class example"
